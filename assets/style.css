@@ -43,3 +43,17 @@ h1 {
         height: auto;
         border-radius: 5%;
 }
+
+.Ingredient-list {
+    margin: 0.5rem 0;
+    padding: 0;
+    text-align: left;
+}
+
+.Ingredient-list li {
+ margin: 0.25em 0;   
+}
+
+.view-button {
+    background-color: #609915;
+}
