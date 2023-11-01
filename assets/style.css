@@ -56,4 +56,17 @@ h1 {
 
 .view-button {
     background-color: #609915;
+    color: #fff;
+    box-shadow: 5px 6px 11px -3px rgba(0, 0, 0, 0.3);
+    padding: 0.75em 1.5em;
+    text-decoration: none;
+    border-radius: 0.5em;
+    margin-top: 1rem;
+}
+
+/*Media query! */
+@media (max-width: 768px) {
+    .recipes-wrapper {
+        Padding: 2.5rem 2rem;
+    }
 }
